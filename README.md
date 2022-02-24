@@ -10,7 +10,7 @@
 </div>
 
 <!-- // -->
-<h1 align="left"> Languages and Tools: </h1>
+<h2 align="left"> Languages and Tools: </h2>
 <br/>
 
 <p align="center"> 
