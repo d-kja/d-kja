@@ -10,7 +10,7 @@
 </div>
 
 <!-- // -->
- ' <h1 align="left"> Languages and Tools: </h1>
+ '<!-- (') is meant to give some space between the gif and this h1 --> <h1 align="left"> Languages and Tools: </h1>
 <br/>
 
 <p align="center"> 
