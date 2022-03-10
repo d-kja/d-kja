@@ -40,3 +40,13 @@
   </div>
 
 </details>
+
+<!-- // --> 
+
+<br/>
+  <p align="left">
+     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" />
+      <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" />
+    </a>
+  </p>
+<br>
