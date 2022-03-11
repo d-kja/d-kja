@@ -32,7 +32,7 @@
 <!-- // -->
 <details>
   <summary>🎲 GitHub Stats</summary>
- 
+ <br/>
   <div align="center"> 
     <img  width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
   
