@@ -1,4 +1,4 @@
-<h1> Heyoo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1> yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <br/>
 
 <div align="center">
@@ -36,10 +36,10 @@
   <summary>🎲 GitHub Stats</summary>
  <br/>
   
-  <div align="center"> 
-    <img  width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-  
-  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+  <div align="center">   
+   <img  width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." /> 
+   <img width="19.3%" src="https://avatars.githubusercontent.com/u/89911360?v=4" />
+    
   </div>
 
 </details>
@@ -47,8 +47,9 @@
 <!-- // --> 
 
 <br/>
-  <p align="left">
-     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" />
+  <p align="center">
+<!--      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" /> -->
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
       <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=Nyyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     </a>
   </p>
