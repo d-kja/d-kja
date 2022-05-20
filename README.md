@@ -1,16 +1,14 @@
 <h1> yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <br/>
 
-<div align="center">
-  <a href="./info.JSON"><img src="https://img.icons8.com/color/35/000000/discord-logo.png"/></a>
-  <a href="https://www.linkedin.com/in/nyyu/"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-  <a href="https://open.spotify.com/user/22zeqmif7eu5yhumumjqia4ki?si=4b27e572c63145c8"><img width="35px" src="https://img.icons8.com/color/48/000000/spotify--v3.png"/></a>
-  <a href="https://www.frontendmentor.io/profile/Nyyu"><img width="30px" src="./img/favicon-32x32.png"/></a>
+<div align="left">
   <a href"https://www.instagram.com/p/CWEVXbtBvoi/"><img src="./img/Aravi-semiRoundedEdges.gif" align="left" width="200px"></a> <!--Sauce: EpicSeven's IG-->
-</div>
-
+  <a href="./info.JSON"><img src="https://img.icons8.com/color/35/000000/discord-logo.png" align="right"/></a>
+    <a href="https://www.linkedin.com/in/nyyu/"><img src="https://img.icons8.com/color/35/000000/linkedin.png" align="right"/></a>
+    <a href="https://open.spotify.com/user/22zeqmif7eu5yhumumjqia4ki?si=4b27e572c63145c8"><img align="right" width="35px" src="https://img.icons8.com/color/48/000000/spotify--v3.png"/></a>
+    <a href="https://www.frontendmentor.io/profile/Nyyu"><img align="right" width="30px" src="./img/favicon-32x32.png"/></a>
 <!-- // -->
-  <h1 align="left"> Languages and Tools: </h1>
+  <h1 align="center"> Languages and Tools: </h1>
 <br/>
 
 <p align="center"> 
@@ -29,6 +27,9 @@
 <!--   <img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png" alt="VisualStudio"/> ¨ -->
     <img src="https://img.icons8.com/plasticine/40/000000/bash.png" alt="bash"/> 
 </p>
+</div>
+
+
 <hr/>
 
 <!-- // -->
