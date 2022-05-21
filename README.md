@@ -22,7 +22,7 @@
   <img src="https://img.icons8.com/color/40/000000/sass-avatar.png" alt="Scss"/>
   <!--<img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/40/000000/external-nodemon-process-will-automatically-restart-when-your-code-changes-logo-green-tal-revivo.png"/> ¨-->
   <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png" alt="java"/> ¨
-  <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="php"/> ¨
+<!--   <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="php"/> ¨ -->
 <!--   <img src="https://img.icons8.com/color/40/000000/c-sharp-logo.png" alt="C#"/> ¨ -->
 <!--   <img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png" alt="VisualStudio"/> ¨ -->
     <img src="https://img.icons8.com/plasticine/40/000000/bash.png" alt="bash"/> 
