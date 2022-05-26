@@ -5,7 +5,7 @@
   <a href"https://www.instagram.com/p/CWEVXbtBvoi/"><img src="./img/Aravi-semiRoundedEdges.gif" align="left" width="300px"></a> <!--Sauce: EpicSeven's IG-->
   
 <!-- // -->
-  <h1 align="center"> Languages and Tools: </h1>
+  <h1 align="left"> Languages and Tools: </h1>
 <br/>
 
 <p align="center"> 
