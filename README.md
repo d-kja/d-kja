@@ -1,4 +1,4 @@
-<h1> yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<!-- <h1> yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> </h1> -->
 <br/>
 
 <div align="center">
@@ -7,7 +7,7 @@
 <br/>
   
 <!-- // -->
-  <h1 align="left"> Languages and Tools: </h1>
+  <h1 align="center"> Languages and Tools: </h1>
 <br/>
 <p align="center"> 
   <img src="https://img.icons8.com/color/40/000000/javascript--v2.png" alt="javaScript"/> ¨
