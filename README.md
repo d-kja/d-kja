@@ -28,29 +28,31 @@
 </div>
 
 <!-- // -->
-<!-- <details>
-  <summary>🎲 GitHub Stats</summary>
- <br/>
-  
-  <div align="center">   
-   <img  width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." /> 
-   <img width="19.3%" src="https://avatars.githubusercontent.com/u/89911360?v=4" />
-    
-  </div>
-
-</details>
--->
-<!-- // --> 
 
 <br/>
 <br/>
 
 ---
 
+<details>
+  <summary>🎲 GitHub Stats</summary>
+ <br/>
+  
+  <div align="center">   
+   <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." /> 
+   <img width="20.3%" src="https://avatars.githubusercontent.com/u/89911360?v=4" />
+    
+  </div>
+
+</details>
+
+<!-- // --> 
+
+
   <p align="center">
 <!--      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" /> -->
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Nyyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+      <img width="53%" src="https://github-readme-streak-stats.herokuapp.com?user=Nyyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
     </a>
   </p>
 <br>
