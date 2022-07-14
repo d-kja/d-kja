@@ -48,14 +48,15 @@
  
  ### Others
  - 🗺 I'm from Brazil.
- - 💬 Portuguese and English
+ - 💬 Portuguese is my primary language but I can also work with English
  - 📫 If you need something, just send me a message.
 <br/>
  
  <div align="center">   
 
 <hr />
-    
+<br/>
+
  <img width="20.5%" src="https://avatars.githubusercontent.com/u/89911360?v=4" />
  
  <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." /> 
