@@ -39,13 +39,18 @@
  
  <br/>
  
+ ### About me
  - 📚 Currently I am learning NextJS.
- - 🗺 I'm from Brazil.
  - 🎮 I've been playing Valorant and... G- Genshin... (just a tiny bit tho)
  - ❄️ I enjoy a cozy place w some hot drink when it's cold 
  - ✨ Omniscient reader's viewpoint is my favorite novel & manhwa
+<br/>
+ 
+ ### Others
+ - 🗺 I'm from Brazil.
  - 💬 Portuguese and English
  - 📫 If you need something, just send me a message.
+<br/>
  
  <div align="center">   
 
