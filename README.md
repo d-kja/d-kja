@@ -75,7 +75,7 @@
   </p>
 <br>
  <p align='center'>
-   <a href="./info.JSON.json"><img src="https://img.icons8.com/color/35/000000/discord-logo.png"/></a>
+   <a href="./info.json"><img src="https://img.icons8.com/color/35/000000/discord-logo.png"/></a>
     <a href="https://www.linkedin.com/in/nyyu/"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
     <a href="https://open.spotify.com/user/22zeqmif7eu5yhumumjqia4ki?si=4b27e572c63145c8"><img  width="35px" src="https://img.icons8.com/color/48/000000/spotify--v3.png"/></a>
     <a href="https://www.frontendmentor.io/profile/Nyyu"><img  width="30px" src="./img/favicon-32x32.png"/></a>
