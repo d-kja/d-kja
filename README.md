@@ -35,12 +35,25 @@
 ---
 
 <details>
-  <summary>🎲 GitHub Stats</summary>
+ <summary>🎲 More info</summary>
+ 
  <br/>
-  
-  <div align="center">   
-   <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." /> 
-   <img width="20.3%" src="https://avatars.githubusercontent.com/u/89911360?v=4" />
+ 
+ - 📚 Currently I am learning NextJS.
+ - 🗺 I'm from Brazil.
+ - 🎮 I've been playing Valorant and... G- Genshin... (just a tiny bit tho)
+ - ❄️ I enjoy a cozy place w some hot drink when it's cold 
+ - ✨ Omniscient reader's viewpoint is my favorite novel & manhwa
+ - 💬 Portuguese and English
+ - 📫 If you need something, just send me a message.
+ 
+ <div align="center">   
+
+<hr />
+    
+ <img width="20.5%" src="https://avatars.githubusercontent.com/u/89911360?v=4" />
+ 
+ <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." /> 
     
   </div>
 
