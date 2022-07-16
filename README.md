@@ -44,7 +44,7 @@
  ### About me
  - 📚 Currently I am learning NextJS.
  - 🎮 I've been playing Valorant and... G- Genshin... (just a tiny bit tho)
- - ❄️ I enjoy rainy days w some coffee
+ - ❄️ Rainy days w some coffee 💜
  - ✨ Omniscient reader's viewpoint is my favorite novel & manhwa
 <br/>
  
