@@ -2,7 +2,7 @@
 <br/>
 
 <div align="center">
-  <a href"https://www.instagram.com/p/CWEVXbtBvoi/"><img src="./img/Aravi-semiRoundedEdges.gif" align="left" width="270px"></a> <!--Sauce: EpicSeven's IG-->
+  <a href"https://www.instagram.com/p/CWEVXbtBvoi/"><img src="./img/Aravi-semiRoundedEdges.gif" align="left" width="275px"></a> <!--Sauce: EpicSeven's IG-->
 <br/>
 <br/>
   
