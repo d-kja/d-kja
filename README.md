@@ -1,83 +1,58 @@
-<h1> yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> </h1>
-<br/>
-
-<div align="center">
-  <a href"https://www.instagram.com/p/CWEVXbtBvoi/"><img src="./img/Aravi-semiRoundedEdges.gif" align="left" width="255px"></a> <!--Sauce: EpicSeven's IG-->
-<br/>
-<br/>
-  
-<!-- // -->
-  <h1 align="center"> Languages and Tools: </h1>
-<br/>
-<p align="center"> 
-  <img src="https://img.icons8.com/color/40/000000/javascript--v2.png" alt="javaScript"/> ¨
-  <img src="https://img.icons8.com/color/40/000000/css3.png" alt="css"/> ¨
-  <img src="https://img.icons8.com/color/40/000000/html-5--v1.png" alt="html"/> ¨
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/33/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-shadow-tal-revivo.png" alt="bootstrap"/> ¨
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/33/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jquery"/> ¨
-  <img src="https://img.icons8.com/fluency/40/000000/node-js.png" alt="nodeJS"/> ¨
-  <img src="https://img.icons8.com/plasticine/40/000000/react.png" alt="ReactJS"/> ¨
-  <img src="https://img.icons8.com/color/40/000000/sass-avatar.png" alt="Scss"/>
-  <!--<img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/40/000000/external-nodemon-process-will-automatically-restart-when-your-code-changes-logo-green-tal-revivo.png"/> ¨-->
-  <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png" alt="java"/> ¨
-<!--   <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="php"/> ¨ -->
-<!--   <img src="https://img.icons8.com/color/40/000000/c-sharp-logo.png" alt="C#"/> ¨ -->
-<!--   <img src="https://img.icons8.com/fluency/40/000000/visual-studio-code-2019.png" alt="VisualStudio"/> ¨ -->
-    <img src="https://img.icons8.com/plasticine/40/000000/bash.png" alt="bash"/> 
+<p align="center">
+  <img src="https://github.com/Nyyu/Nyyu/blob/1aacdd2099b7d1d8d67a4892baf8e8434e8b45d3/img/Untitled-1.png" width="100%" height="200px">
 </p>
-</div>
 
-<!-- // -->
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Typescript&colorA=18181b&colorB=3f3f46&logo=typescript&logoColor=ECEFF4&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=Next.js&colorA=18181b&colorB=3f3f46&logo=next.js&logoColor=ECEFF4&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=React&colorA=18181b&colorB=3f3f46&logo=react&logoColor=ECEFF4&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=Tailwind&colorA=18181b&colorB=3f3f46&logo=tailwindcss&logoColor=ECEFF4&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=Node&colorA=18181b&colorB=3f3f46&logo=node.js&logoColor=ECEFF4&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=18181b&colorB=3f3f46&logo=sass&logoColor=ECEFF4&style=flat-square" />
+</p>
 
-<br/>
-<br/>
+### About me
+ 
+ - 📚 Currently I'm learning Docker.
+ - 🎮 I've been playing Valorant, minecraft and TOF
+ - 💜 Rainy days w some coffee 
+ - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
+
+### Others 
+ 
+ - 🗺 I'm from Brazil.
+ - 💬 Portuguese is my primary language but I can also work with English
+ - 📫 If you need something, just send me a <a href="mailto:nyyu.dev@gmail.com">message</a>.
+
+<br />
+
+<details>
+  <summary>📑 More info</summary>
+  <p align="center">
+   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+   <img width="53%" src="https://github-readme-streak-stats.herokuapp.com?user=Nyyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </p>
+ </details>
 
 ---
 
-<details>
- <summary>🎲 More info</summary>
- 
- <br/>
- 
- ### About me
- - 📚 Currently I am learning NextJS.
- - 🎮 I've been playing Valorant, minecraft and... G- Genshin... (just a tiny bit tho)
- - ❄️ Rainy days w some coffee 💜
- - ✨ Omniscient reader's viewpoint is my favorite novel & manhwa
-<br/>
- 
- ### Others
- - 🗺 I'm from Brazil.
- - 💬 Portuguese is my primary language but I can also work with English
- - 📫 If you need something, just send me a message.
-<br/>
- 
- <div align="center">   
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=&message=Zzz%238646&colorA=18181b&colorB=3f3f46&logo=discord&logoColor=ECEFF4&style=flat-square" />
+  <a href="https://open.spotify.com/user/22zeqmif7eu5yhumumjqia4ki?si=4b27e572c63145c8"><img src="https://img.shields.io/static/v1?label=&message=Spotify&colorA=18181b&colorB=3f3f46&logo=spotify&logoColor=ECEFF4&style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/nyyu/"><img src="https://img.shields.io/static/v1?label=&message=Nicolas&colorA=18181b&colorB=3f3f46&logo=linkedin&logoColor=ECEFF4&style=flat-square"/></a>
+  <a href="https://www.frontendmentor.io/profile/Nyyu"><img  src="https://img.shields.io/static/v1?label=&message=FrontEnd%20Mentor&colorA=18181b&colorB=3f3f46&logo=frontendmentor&logoColor=ECEFF4&style=flat-square"/></a>
+</p>
 
-<hr />
-<br/>
+<h6 align="center"><i>Imma grab some coffee brb</i></h6>
 
- <img width="20.5%" src="https://avatars.githubusercontent.com/u/89911360?v=4" />
- 
- <img  width="53.5%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." /> 
+<!--
+  Credits:
+  
+   - Layout concept
+    - yunger7
     
-  </div>
-
-</details>
-
-<!-- // --> 
-
-
-  <p align="center">
-<!--      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Nyyu&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" /> -->
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-      <img width="53%" src="https://github-readme-streak-stats.herokuapp.com?user=Nyyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-    </a>
-  </p>
-<br>
- <p align='center'>
-   <a href="./info.json"><img src="https://img.icons8.com/color/35/000000/discord-logo.png"/></a>
-    <a href="https://www.linkedin.com/in/nyyu/"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
-    <a href="https://open.spotify.com/user/22zeqmif7eu5yhumumjqia4ki?si=4b27e572c63145c8"><img  width="35px" src="https://img.icons8.com/color/48/000000/spotify--v3.png"/></a>
-    <a href="https://www.frontendmentor.io/profile/Nyyu"><img  width="30px" src="./img/favicon-32x32.png"/></a>
- </p>
+   - Images
+    - me
+    - shields.io
+   
+-->
