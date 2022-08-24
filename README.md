@@ -1,5 +1,5 @@
 <p align="center">
-  <-- <img src="https://github.com/Nyyu/Nyyu/blob/1aacdd2099b7d1d8d67a4892baf8e8434e8b45d3/img/Untitled-1.png" width="100%" height="200px"> -->
+  <!-- <img src="https://github.com/Nyyu/Nyyu/blob/1aacdd2099b7d1d8d67a4892baf8e8434e8b45d3/img/Untitled-1.png" width="100%" height="200px"> -->
 </p>
 
 <p align="center">
