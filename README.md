@@ -13,7 +13,7 @@
 
 ### About me
  
- - 📚 Currently, I'm learning Docker.
+ - 📚 Currently, I'm learning NextJS.
  - 🎮 I've been playing Valorant, E7, and lol 
  - 💜 Rainy days w some coffee 
  - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
@@ -49,11 +49,13 @@
 <!--
   Credits:
   
-   - Layout concept
+   - Layout concept made by
     - yunger7
     
    - Images
     - me
-    - shields.io
+   
+   - Badges
+   - shields.io
    
 -->
