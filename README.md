@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://github.com/Nyyu/Nyyu/blob/f77f26567618537bb91634093e949ff1c7a01f5f/img/Frame-1.png" />
+  <!--
+    Figma sauce: https://www.figma.com/file/rYNNI186dn0M5Awr7gow9u/Github-banner?node-id=1%3A2
+  -->
 </p>
 
 <p align="center">
