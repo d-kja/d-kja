@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nyyu/Nyyu/blob/8109ed8a90df00342f8a371034416ddd848ad2c0/img/banner-img.png" />
+  <img src="https://github.com/Nyyu/Nyyu/blob/f77f26567618537bb91634093e949ff1c7a01f5f/img/Frame-1.png" />
 </p>
 
 <p align="center">
