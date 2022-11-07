@@ -16,7 +16,7 @@
 
 ### About me
  
- - 📚 Currently, I'm learning NextJS.
+ - 📚 Currently, I'm learning NextJS && Jest.
  - 🎮 I've been playing Valorant, E7, and Ow2
  - 💜 Rainy days w some coffee 
  - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
