@@ -29,7 +29,7 @@
 
 <br />
 
-<details open>
+<details>
   <summary>📑 More info</summary>
   <br />
   <p align="center">
