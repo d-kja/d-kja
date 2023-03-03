@@ -33,8 +33,8 @@
   <summary>📑 More info</summary>
   <br />
   <p align="center">
-   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-   <img width="58%" src="https://github-readme-streak-stats.herokuapp.com?user=Nyyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyyu&show_icons=true&layout=compact&langs_count=7&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
+   <img width="52%" src="https://github-readme-streak-stats.herokuapp.com?user=Nyyu&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </p>
  </details>
 
