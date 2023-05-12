@@ -17,7 +17,7 @@
 ### About me
  
  - 📚 Currently, I'm learning NextJS && Jest.
- - 🎮 I've been playing E7 and Valo
+ - 🎮 I've been playing HSR and Valo
  - 💜 Rainy days w some coffee 
  - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
 
@@ -59,6 +59,6 @@
     - me
    
    - Badges
-   - shields.io
+    - shields.io
    
 -->
