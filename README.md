@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=&message=Zzz%238646&colorA=18181b&colorB=3f3f46&logo=discord&logoColor=ECEFF4&style=flat-square" /> &nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=hlyd&colorA=18181b&colorB=3f3f46&logo=discord&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <a href="https://open.spotify.com/user/22zeqmif7eu5yhumumjqia4ki?si=4b27e572c63145c8"><img src="https://img.shields.io/static/v1?label=&message=Spotify&colorA=18181b&colorB=3f3f46&logo=spotify&logoColor=ECEFF4&style=flat-square"/></a> &nbsp;
   <a href="https://www.linkedin.com/in/d-kja/"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&colorA=18181b&colorB=3f3f46&logo=linkedin&logoColor=ECEFF4&style=flat-square"/></a> &nbsp;
   <a href="https://www.frontendmentor.io/profile/Nyyu"><img  src="https://img.shields.io/static/v1?label=&message=FrontEnd%20Mentor&colorA=18181b&colorB=3f3f46&logo=frontendmentor&logoColor=ECEFF4&style=flat-square"/></a>
