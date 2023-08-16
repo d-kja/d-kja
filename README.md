@@ -16,8 +16,8 @@
 
 ### About me
  
- - 📚 Currently, I'm learning NextJS && Jest.
- - 🎮 I've been playing HSR and Valo
+ - 📚 Currently, I'm learning Nest && Vitest.
+ - 🎮 I've been playing HSR, E7, and Valo
  - 💜 Rainy days w some coffee 
  - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
 
