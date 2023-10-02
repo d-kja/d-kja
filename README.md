@@ -17,7 +17,7 @@
 ### About me
  
  - 📚 Currently, I've been learning Nest && Vitest.
- - 🎮 I usually play HSR, E7, and Valo
+ - 🎮 I usually play NIKKE, E7, and Valo
  - 💜 Rainy days w some coffee 
  - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
 
