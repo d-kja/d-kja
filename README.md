@@ -32,9 +32,9 @@
 <details>
   <summary>📑 More info</summary>
   <br />
-  <p align="center">
-   <img width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kja&show_icons=true&layout=compact&langs_count=8&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-   <img width="56.5%" src="https://github-readme-streak-stats.herokuapp.com?user=d-kja&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <p align="center" width="100%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kja&show_icons=true&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=1f2937&icon_color=f0f0f0&text_color=a1a1aa" alt="Statistics." />
+   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=d-kja&rank_icon=github&hide=contribs&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&title_color=d4d4d8&icon_color=f0f0f0&text_color=71717a" />
   </p>
  </details>
 
