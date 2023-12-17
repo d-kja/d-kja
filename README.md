@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=React&colorA=18181b&colorB=3f3f46&logo=react&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Tailwind&colorA=18181b&colorB=3f3f46&logo=tailwindcss&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Node&colorA=18181b&colorB=3f3f46&logo=node.js&logoColor=ECEFF4&style=flat-square" /> &nbsp;
-  <img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=18181b&colorB=3f3f46&logo=sass&logoColor=ECEFF4&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?label=&message=Sass&colorA=18181b&colorB=3f3f46&logo=sass&logoColor=ECEFF4&style=flat-square" /> &nbsp;
 </p>
 
 ### About me
@@ -36,6 +36,7 @@
    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kja&show_icons=true&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=1f2937&icon_color=f0f0f0&text_color=a1a1aa" alt="Statistics." />
   </p>
  </details>
+ 
 
 ---
 
@@ -46,7 +47,12 @@
   <a href="https://www.linkedin.com/in/d-kja/"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&colorA=18181b&colorB=3f3f46&logo=linkedin&logoColor=ECEFF4&style=flat-square"/></a> 
 </p>
 
-<h6 align="center"><i>Imma grab some coffee brb</i></h6>
+<h6 align="center">
+  <i>Imma grab some coffee brb</i>  
+</h6>
+
+<p align="right" style="opacity:60%;"><img src="https://visitor-badge.laobi.icu/badge?page_id=d-kja.d-kja&left_color=transparent&right_color=transparent" /></p>
+
 
 <!--
   Credits:
