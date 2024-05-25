@@ -32,8 +32,6 @@
  <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kja&show_icons=true&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=00000000&icon_color=f0f0f0&text_color=a1a1aa" alt="Statistics." />
 </p>
 
-<br />
- 
 ---
 
 <p align="center">
