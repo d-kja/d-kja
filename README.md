@@ -28,10 +28,16 @@
  - 💬 Portuguese is my primary language but I can also work with English
  - 📫 If you need something, just send me a <a href="mailto:nyyu.dev@gmail.com">message</a>.
 
-<p align="center" width="100%">
- <img width="58.5%" src="https://github-readme-stats.vercel.app/api?username=d-kja&rank_icon=github&hide=contribs&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&title_color=d4d4d8&icon_color=f0f0f0&text_color=71717a" />
- <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kja&show_icons=true&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=00000000&icon_color=f0f0f0&text_color=a1a1aa" alt="Statistics." />
-</p>
+<br />
+
+<details>
+  <summary>📑 Stats</summary>
+  
+  <p align="center" width="100%">
+    <img width="58.5%" src="https://github-readme-stats.vercel.app/api?username=d-kja&rank_icon=github&hide=contribs&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&title_color=d4d4d8&icon_color=f0f0f0&text_color=71717a" />
+    <img width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-kja&show_icons=true&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=00000000&icon_color=f0f0f0&text_color=a1a1aa" alt="Statistics." />
+  </p>
+</details>
 
 ---
 
