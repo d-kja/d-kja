@@ -17,7 +17,7 @@
 
 ### About me
  
- - 📑 Currently, I've been playing with Rust.
+ - 📑 As of late, I've been playing with Rust.
  - 🎮 I usually play NIKKE, E7, and WuWa
  - 💜 Rainy days w some coffee 
  - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
