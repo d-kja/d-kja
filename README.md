@@ -26,7 +26,7 @@
  
  - 🗺 I'm from Brazil.
  - 💬 Portuguese is my primary language but I can also work with English
- - 📫 If you need something, just send me a <a href="mailto:nyyu.dev@gmail.com">message</a>.
+ - 📫 If you need something, just send me a <a href="mailto:dkja.dev@gmail.com">message</a>.
 
 <br />
 
