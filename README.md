@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Next.js&colorA=18181b&colorB=3f3f46&logo=next.js&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=React&colorA=18181b&colorB=3f3f46&logo=react&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Node&colorA=18181b&colorB=3f3f46&logo=node.js&logoColor=ECEFF4&style=flat-square" /> &nbsp;
+  <img src="https://img.shields.io/static/v1?label=&message=Golang&colorA=18181b&colorB=3f3f46&logo=go&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Rust&colorA=18181b&colorB=3f3f46&logo=rust&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=Tailwind&colorA=18181b&colorB=3f3f46&logo=tailwindcss&logoColor=ECEFF4&style=flat-square" /> &nbsp;
   <img src="https://img.shields.io/static/v1?label=&message=NVim&colorA=18181b&colorB=3f3f46&logo=neovim&logoColor=ECEFF4&style=flat-square" /> &nbsp;
