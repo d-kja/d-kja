@@ -19,7 +19,7 @@
 ### About me
  
  - 📑 As of late, I've been playing with Rust.
- - 🎮 I usually play NIKKE, GFL2, possibly the new Arknights, and WuWa
+ - 🎮 I usually play [NIKKE](https://gist.github.com/d-kja/74633df5f2d6e55cb2a77c3f9d6acece), GFL2, possibly the new Arknights, and WuWa
  - 💜 Rainy days w some coffee 
  - ✨ Omniscient reader's viewpoint is one of my favorite novels && manhwa
 
